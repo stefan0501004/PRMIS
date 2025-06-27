@@ -1,0 +1,35 @@
+# 🔧 Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ⚙️ Build output
+bin/
+obj/
+Debug/
+Release/
+
+# 🔌 NuGet packages
+packages/
+*.nupkg
+
+# 🧪 Test results
+TestResults/
+*.trx
+
+# 🔒 OS/IDE junk
+*.DS_Store
+*.vscode/
+*.log
+*.tmp
+*.cache
+
+# 🌐 Web-related
+node_modules/
+dist/
+.env
+
+# 🧠 Rider / JetBrains IDE
+.idea/
